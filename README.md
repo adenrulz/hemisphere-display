@@ -1,8 +1,3 @@
-This is a codealong from the below udemy course
-
-https://www.udemy.com/course/react-js-sfrdan-baslayarak-react-js-redux-ve-hooks-ogren/
-
-
 
 
 # Getting Started with Create React App
